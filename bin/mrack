@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'mrack'
+
+Mrack::Server.start
